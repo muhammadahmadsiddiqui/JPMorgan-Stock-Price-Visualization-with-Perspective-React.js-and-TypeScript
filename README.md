@@ -2,6 +2,8 @@
 
 This project visualizes stock price data using **Perspective**, **React.js**, and **TypeScript** to build a dynamic trader's dashboard.
 
+![Implementation](/Implementation.png)
+
 ## Technologies Used
 - **React.js**
 - **TypeScript**
