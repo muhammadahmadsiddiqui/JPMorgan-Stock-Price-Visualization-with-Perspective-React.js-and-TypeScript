@@ -19,5 +19,8 @@ cd jpmorgan-stock-price-visualization
 # Install dependencies
 npm install
 
-# Run the application
+# Run the Python server (make sure this is running in the background)
+python -m server3 8000
+
+# Run the React app
 npm start
